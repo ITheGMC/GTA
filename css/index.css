@@ -311,12 +311,6 @@ footer p {
     cursor: pointer;
     transform: scale(1.1);
 }
-.github {
-    background-image: url(/assets/media/pics/icons/github-icon.png);
-}
-.linkedin {
-    background-image: url(/assets/media/pics/icons/linkedin-icon.png);
-}
 @media screen and (max-width: 900px) {
     section, #head-note p, #fourth, #fifth, #fourth p, #fifth p {
         display: flex;
