@@ -296,6 +296,27 @@ footer p {
     cursor: pointer;
 }
 
+.icon-link {
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    border: 1px solid var(--textcolor);
+    margin-top: 50px;
+    margin-left: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: ease 0.5s;
+}
+.icon-link:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.github {
+    background-image: url(/assets/media/pics/icons/github-icon.png);
+}
+.linkedin {
+    background-image: url(/assets/media/pics/icons/linkedin-icon.png);
+}
 @media screen and (max-width: 900px) {
     section, #head-note p, #fourth, #fifth, #fourth p, #fifth p {
         display: flex;
