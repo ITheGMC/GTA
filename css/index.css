@@ -55,7 +55,7 @@ body {
     width: 40px;
     height: 40px;
     border-radius: 50px;
-    background-image: url(/assets/media/pics/profilepics/025.jpg);
+    background-image: url(assets/media/pics/profilepics/025.jpg);
     background-size: cover;
     background-position: center;
     right: 5%;
@@ -130,7 +130,7 @@ section {
     transform: scale(1.03);
 }
 .image-part-one {
-    background-image: url(/assets/media/pics/images/model-image.jpg);
+    background-image: url(assets/media/pics/images/model-image.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     position: absolute;
